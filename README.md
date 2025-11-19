@@ -10,6 +10,8 @@
 
 
 ### References 
+1. History and story of Breaking Enigma
+    * https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/solving_enigma.pdf
 1. Wire connections and other specificaitons
     * https://www.cryptomuseum.com/crypto/enigma/wiring.htm
 1. Double stepping 
